@@ -30,7 +30,7 @@
 > [2022 Funds Allocation (miro)](https://miro.com/app/board/uXjVOU6FHS0=/)
 
 `Try to get matching funding from PL`<br>
-❌ Support Ben's capacity - Take Maker off his hands // Ryeder? Willow? <br>
+❌ Support Seth's capacity - Take Maker off his hands // Ryeder? Willow? <br>
 ❌ Take SC Treasury off his hands // Ezra // Willow / Ben<br><br>
 
 `Finalize and ratify an allocation proposal`<br>
