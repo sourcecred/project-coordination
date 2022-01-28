@@ -46,5 +46,6 @@
 
 ### Resources
 - [SourceCred Linktree](https://linktr.ee/sourcecred) - Aloysious
+- [Onboarding](https://github.com/orgs/sourcecred/projects/8) - Aloysious // Ben
 - [SourceCred Calendar](https://calendar.google.com/calendar/u/0/embed?src=ops@sourcecred.io) - Community
 
