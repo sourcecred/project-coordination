@@ -19,13 +19,13 @@
 
 `Valuation Emoji Design and release`<br>
 ❌ Choose names<br>
-❌ icon designs<br>
-❌ create icon<br>
+✅ icon designs // @magwalk<br>
+✅ create icon // @magwalk<br>
 ❌ upload to server // educate the community<br>
 
 1️⃣ Pay ourselves<br>
 + Track need
-  + ❔ Do we need to airdrop? 
+  + ✅ Do we need to airdrop? 
   + ❔ Do we need to coordinate mutual aid?   
 > [2022 Funds Allocation (miro)](https://miro.com/app/board/uXjVOU6FHS0=/)
 
@@ -34,9 +34,9 @@
 ❌ Take SC Treasury off his hands // Ezra // Willow / Ben<br><br>
 
 `Finalize and ratify an allocation proposal`<br>
-❌ Collect + integrate feedback // Ezra<br>
-❌ Run simulations // Thena<br>
-❌ Ratify (poll bot) // Ryeder<br>
+✅ Collect + integrate feedback // Ezra<br>
+✅ Run simulations // Thena<br>
+✅ Ratify (poll bot) // Aloysious<br>
 
 2️⃣ Strategize Dev Recruitment <br>
 > [tapping into the MetaAlliance](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/metaalliance)<br>
@@ -67,10 +67,10 @@
 <br>
 
 ### // TO DO <br>
-❌ BrightId connection parties, setup dapp for SC (onboarding tool - authentication / blockchain)<br>
+❌ [[Backburner stuff]] BrightId connection parties, setup dapp for SC (onboarding tool - authentication / blockchain)<br>
   + Aloysious / Gabriel / Msmagey / Randall / Bubbles  <br>
 
-❌ [Pick time](https://www.google.com/url?q=https%3A%2F%2Fdoodle.com%2Fpoll%2Fq7txtp7zcyzz5fik%23calendar&sa=D&sntz=1&usg=AFQjCNFLFxPephvGiQxB0brgzZUPMhrVpg) for book club<br>
+❌ [[Backburner stuff]] [Pick time](https://www.google.com/url?q=https%3A%2F%2Fdoodle.com%2Fpoll%2Fq7txtp7zcyzz5fik%23calendar&sa=D&sntz=1&usg=AFQjCNFLFxPephvGiQxB0brgzZUPMhrVpg) for book club<br>
 > [Ecosystems Miro](https://miro.com/app/board/o9J_l3ah_6g=/)
 
 <br>
@@ -85,7 +85,7 @@
 <br>
 
 ### // TO DO <br>
-❌ [Facilitation] create a process for to hold the Prod Gov space<br>
+❌ [[Backburner stuff]] [Facilitation] create a process for to hold the Prod Gov space<br>
   + single document include facilitation guide / meeting attendance & tempo bot
  
 <br>
@@ -113,16 +113,16 @@
     + [4 | Self-service identities](https://docs.google.com/document/d/1-VqUDgMa3uZFjlhXcwlg9Krj8a8IwfowdUnVOy3vIa0/edit) - stx<br>
     + [5 | Meeting bot Productionization](https://docs.google.com/document/d/1ZG-CCn6vqbVFBLMlmSK0qeZG5AgLlG84KELtiCPTAV0/edit) - stx<br>
     + [6 | Supporting SourceCred Community Growth](https://gitcoin.co/grants/3979/supporting-sourcecred-community) - gitcoin<br>
-      ❌ cash out gitcoin grant // Ryeder <br>
+      ❌ cash out gitcoin grant <br>
       ❌ reach out to gitcoin rep and ask for best methods and practicies for grant amplification w/in ecosystem // Aloysious<br>
 > storytelling<br> 
-+ Seth // Aloysious // Ben // LBS - twitter
++ Seth // Aloysious // Ben - twitter
   + MsMagey // Gabriel // Morgan <br>
-❌ [Facilitation] create a process for anyone to hold this space <br>
+❌ [[Backburner stuff]] [Facilitation] create a process for anyone to hold this space <br>
   + single document include facilitation guide / meeting attendance & tempo bot<br>
 ❌ Newsletter thang - token gated? Mirror? // NFT = possibillities to auction art while we storytell<br>
 ❌ [How other communities are using us](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/grant-writing) - Ben // more content desired<br>
-❌ BrightId // connection parties<br>
+❌ [[Backburner stuff]] BrightId // connection parties<br>
   + Aloysious // Gabriel // Msmagey // Randall // Bubbles   
  
 <br>
@@ -137,7 +137,7 @@
 <br>
 
 ### // TO DO <br>
-❌ [Facilitation] create a process for anyone to hold this space<br>
+❌ [[Backburner stuff]] [Facilitation] create a process for anyone to hold this space<br>
   + single document include facilitation guide / meeting attendance & tempo bot
 
 <br>
@@ -154,8 +154,8 @@
 <br>
 
 ### // TO DO <br>
-❌ [Pick a book!](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/ecosystem/book-club) <br>
-❌ [Pick a date / Time](https://www.google.com/url?q=https%3A%2F%2Fdoodle.com%2Fpoll%2Fq7txtp7zcyzz5fik%23calendar&sa=D&sntz=1&usg=AFQjCNFLFxPephvGiQxB0brgzZUPMhrVpg)<br>
+❌ [[Backburner stuff]] [Pick a book!](https://sites.google.com/sourcecred.io/sourcecred-21-jan-22/ecosystem/book-club) <br>
+❌ [[Backburner stuff]] [Pick a date / Time](https://www.google.com/url?q=https%3A%2F%2Fdoodle.com%2Fpoll%2Fq7txtp7zcyzz5fik%23calendar&sa=D&sntz=1&usg=AFQjCNFLFxPephvGiQxB0brgzZUPMhrVpg)<br>
 
 <br>
 <br>
@@ -169,7 +169,7 @@
 <br>
 
 ### // TO DO <br>
-❌ [Facilitation] create a process for anyone to hold this space<br>
+❌ [[Backburner stuff]] [Facilitation] create a process for anyone to hold this space<br>
   + single document include facilitation guide <br>
 + how are newcomers welcomed? >> process? // intake form?.
   + Ratify as a group a quick policy (boundaries) // maybe care giver can facilitate?
@@ -184,7 +184,7 @@
   + Marcie + Ezra // facilitate on rotation 
 
 ### // TO DO <br>
-❌ [Facilitation] create a process for anyone to hold this space<br>
+❌ [[Backburner stuff]] [Facilitation] create a process for anyone to hold this space<br>
   + single document include facilitation guide / meeting attendance & tempo bot
 
 <br>
@@ -193,6 +193,7 @@
 ## 🔭 Meta-eth Researchers
 
 ### // TO DO <br>
+✅ Schedule Tyson Yunkaporta
 + Create a guide on meta-eth research in our server  
   + periodic announcement about active research in the server to server community to inform newcomers
     + tweet!  
