@@ -10,9 +10,9 @@
 |🏛️🗣️👥|`town halls`|as needed|Yaz / Ezra|
 |🧼🗣️👥|`soap-boxes`|tbd|[as the need arises] Ryeder|
 |🔭|`Meta-eth - Research updates and talks`|tbd|Ellie / Campbell  / Aloysious / Ryeder|
-|💻|`Dev Backlog`| ||mondays @ 10am|| |on hold|
-|💻|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena|
-|🍂🗣️|`Formula Workshop`| ||mondays @ 2:30|| *when in session*|Willow|
+|💻🗣️|`Dev Backlog`| mondays @ 10am |on hold|
+|💻🗣️|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena|
+|🍂🗣️|`Formula Workshop`| mondays @ 2:30 *when in session*|Willow|
 |🌐🗣️|`MarComs`|tuesdays @ 11am|Ezra|
 |🌐🗣️|`Weekly Scrum`|tuesdays @ 130pm|rotation|
 |💻👥|`Social Coding`|tuesdays @ 2pm|drop-in|drop-in|
@@ -25,7 +25,7 @@
 |💻👥|`Social Coding`|thursdays @ 9am `&` 1pm|drop-in|
 |⛑️🗣️👥|`Care Team`|thursdays @ 130pm|rotation|
 |🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious| 
-|🌐|`Weekly Update`|fridays @ 11am|all hands - rotation|
+|🌐🗣️👥|`Weekly Update`|fridays @ 11am|all hands - rotation|
 |💻👥|`Social Coding`|fridays @ 1pm|drop-in|drop-in|
 |🌐🗣️|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth / kevin / Ryeder / Aloysious|
 
