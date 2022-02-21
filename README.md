@@ -12,12 +12,12 @@
 |🔭|`Meta-eth - Research updates and talks`|tbd|Ellie / Campbell  / Aloysious / Ryeder|
 |💻🗣️|`Dev Backlog`| mondays @ 10am |on hold|
 |💻🗣️|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena|
+|💻🗣️|`Thena's Office Hours`|mondays @ 11am|Thena|
 |🍂🗣️|`Formula Workshop`| mondays @ 2:30 *when in session*|Willow|
 |🌐🗣️|`MarComs`|tuesdays @ 11am|Ezra|
 |🌐🗣️|`Weekly Scrum`|tuesdays @ 130pm|rotation|
 |💻👥|`Social Coding`|tuesdays @ 2pm|drop-in|drop-in|
 |🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
-|💻|`Thena's Office Hours`|thursdays @ 11am|Thena|
 |🤸🗣️👥|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
 |🗣️👥|`Community Call`|Wednesdays @ 11am|rotation|
 |♂️👥|`Mens Group`|wednesdays @ 12pm|Seth|
