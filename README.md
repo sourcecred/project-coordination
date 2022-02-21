@@ -14,20 +14,20 @@
 |💻🗣️|`Dev Team Sprint / Sprint Demos`|mondays @ 11am|Thena|
 |💻🗣️|`Thena's Office Hours`|mondays @ 11am|Thena|
 |🍂🗣️|`Formula Workshop`| mondays @ 2:30 *when in session*|Willow|
-|🌐🗣️|`MarComs`|tuesdays @ 11am|Ezra|
+|🌐🗣️|`MarComs`|tuesdays @ 11am|Ezra / Seth / Aloysious|
 |🌐🗣️|`Weekly Scrum`|tuesdays @ 130pm|rotation|
 |💻👥|`Social Coding`|tuesdays @ 2pm|drop-in|drop-in|
 |🐢🐺🐻|`Two Row Wampum Working Group`|wednesdays @ 4pm|[Longhouse](https://www.facebook.com/longhouse.stuartmyiow)|
 |🤸🗣️👥|`Playtime`|wednesdays / fridays @ 10am|Marcie + Ezra|
 |🗣️👥|`Community Call`|Wednesdays @ 11am|rotation|
 |♂️👥|`Mens Group`|wednesdays @ 12pm|Seth|
-|📚🗣️👥|`book club`|wednesdays @ 230pm|Ezra|
+|📚🗣️👥|`book club`|wednesdays @ 230pm|Ezra / Aloysious|
 |💻👥|`Social Coding`|thursdays @ 9am `&` 1pm|drop-in|
 |⛑️🗣️👥|`Care Team`|thursdays @ 130pm|rotation|
 |🏳️‍⚧️🏳️‍🌈👥|`QueerAF`|thursdays @ 3pm|Aloysious| 
 |🌐🗣️👥|`Weekly Update`|fridays @ 11am|all hands - rotation|
 |💻👥|`Social Coding`|fridays @ 1pm|drop-in|drop-in|
-|🌐🗣️|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Seth / kevin / Ryeder / Aloysious|
+|🌐🗣️|`Ecosystems Department Strategy Meeting`|fridays @ 2pm|Ezra / Seth / Aloysious / Zevi / Gabriel|
 
 
 **🗝️ L E G E N D**
